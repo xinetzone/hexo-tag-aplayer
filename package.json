@@ -26,9 +26,6 @@
   "dependencies": {
     "aplayer": "^1.10.0",
     "babel-polyfill": "^6.16.0",
-    "hexo-fs": "^0.2.0",
-    "hexo-log": "^0.2.0",
-    "hexo-util": "^0.1.7",
     "meting": "^1.2.0"
   },
   "devDependencies": {
